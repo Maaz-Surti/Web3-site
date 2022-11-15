@@ -16,12 +16,12 @@
 .main {
   display: flex;
   justify-content: center;
-  align-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .container {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-  margin: 50px 100px;
   background-color: gray;
 }
 
